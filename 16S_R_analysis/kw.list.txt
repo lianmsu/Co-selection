@@ -1,0 +1,80 @@
+$ASV_99.kw
+
+	Kruskal-Wallis rank sum test
+
+data:  BC[, i] and as.factor(BC[, 1])
+Kruskal-Wallis chi-squared = 5.4783, df = 2, p-value = 0.06463
+
+
+$ASV_26.kw
+
+	Kruskal-Wallis rank sum test
+
+data:  BC[, i] and as.factor(BC[, 1])
+Kruskal-Wallis chi-squared = 4.6545, df = 2, p-value = 0.09756
+
+
+$ASV_204.kw
+
+	Kruskal-Wallis rank sum test
+
+data:  BC[, i] and as.factor(BC[, 1])
+Kruskal-Wallis chi-squared = 4.9231, df = 2, p-value = 0.0853
+
+
+$ASV_63.kw
+
+	Kruskal-Wallis rank sum test
+
+data:  BC[, i] and as.factor(BC[, 1])
+Kruskal-Wallis chi-squared = 5.2364, df = 2, p-value = 0.07294
+
+
+$ASV_3.kw
+
+	Kruskal-Wallis rank sum test
+
+data:  BC[, i] and as.factor(BC[, 1])
+Kruskal-Wallis chi-squared = 3.963, df = 2, p-value = 0.1379
+
+
+$ASV_1184.kw
+
+	Kruskal-Wallis rank sum test
+
+data:  BC[, i] and as.factor(BC[, 1])
+Kruskal-Wallis chi-squared = 3.3478, df = 2, p-value = 0.1875
+
+
+$ASV_153.kw
+
+	Kruskal-Wallis rank sum test
+
+data:  BC[, i] and as.factor(BC[, 1])
+Kruskal-Wallis chi-squared = 5.5385, df = 2, p-value = 0.06271
+
+
+$ASV_355.kw
+
+	Kruskal-Wallis rank sum test
+
+data:  BC[, i] and as.factor(BC[, 1])
+Kruskal-Wallis chi-squared = 4.9231, df = 2, p-value = 0.0853
+
+
+$ASV_735.kw
+
+	Kruskal-Wallis rank sum test
+
+data:  BC[, i] and as.factor(BC[, 1])
+Kruskal-Wallis chi-squared = 3.6667, df = 2, p-value = 0.1599
+
+
+$ASV_94.kw
+
+	Kruskal-Wallis rank sum test
+
+data:  BC[, i] and as.factor(BC[, 1])
+Kruskal-Wallis chi-squared = 4.9231, df = 2, p-value = 0.0853
+
+
