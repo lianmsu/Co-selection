@@ -7,4 +7,4 @@ All shell scrispt files are for pretreatment of 16S rRNA gene sequencing and met
 This folder contain all R scripts for 16S rRNA gene sequencing results.
 
 metagenomic_R_analysis: 
-This folder contain all R scripts for metagenomic amplicon sequencing results.
+This folder contain all R scripts for metagenomic sequencing results.
