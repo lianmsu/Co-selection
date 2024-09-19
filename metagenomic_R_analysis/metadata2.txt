@@ -1,0 +1,16 @@
+sample	pollutants	category	days	rongyu	categorycol	rongyucol	argabun
+Cd11	Cd11	cd	heavy_metal	30	y	cyan3	#fbf398	0.663222096649379
+Cd21	Cd21	cd	heavy_metal	60	n	cyan3	#fbf398	0.520420581509322
+Cr11	Cr11	cr	heavy_metal	30	y	cyan3	#fbf398	1.63865993623956
+Cr21	Cr21	cr	heavy_metal	60	n	cyan3	#fbf398	0.900586232344424
+Cu11	Cu11	cu	heavy_metal	30	y	cyan3	#fbf398	0.658468243880691
+Cu21	Cu21	cu	heavy_metal	60	n	cyan3	#fbf398	0.322508370274121
+PAP11	PAP11	PAP	organic	30	y	indianred1	orchid	0.803273346752136
+PAP21	PAP21	PAP	organic	60	n	indianred1	orchid	0.494093748022687
+PNP11	PNP11	PNP	organic	30	y	indianred1	orchid	0.509090795333354
+PNP21	PNP21	PNP	organic	60	n	indianred1	orchid	0.825597814934969
+Seed	Seed	no	no	0	n	#8f888b	#8f888b	0.339029034225833
+Seed2	Seed	no	no	0	n	#8f888b	#8f888b	0.368762
+Seed3	Seed	no	no	0	n	#8f888b	#8f888b	0.314314
+oh11	oh11	PhOH	organic	30	y	indianred1	orchid	0.653785109543863
+oh21	oh21	PhOH	organic	60	n	indianred1	orchid	1.03317272372181
