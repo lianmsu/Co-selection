@@ -42,15 +42,16 @@ Sample codes used everywhere in the scripts: `Seed`, `CG` (blank control),
 ## How the pieces connect
 
 ```
-raw reads ─┬─ 16S ─ usearch ─ ASV table ─┐
-           │                            ├─ analyses/01 ─ Fig. 6, S7, S8
-           │            metadata ───────┘
-           │
-           └─ metagenome ─ metaWRAP/dRep ─ MAGs ─┬─ GTDB-Tk ── tree/taxonomy ─┐
-                                                 ├─ Prodigal ─ diamond ─ tables ┼─ analyses/02 ─ Fig. 1, 2, 3c, 5, S2–S6
-                                                 └─ ARGs-OAP ─ normalized tables ┘
-                                                                            │
-                                              tables (genome × gene) ─ analyses/03 ─ Fig. 3d, 4, S4
+16S reads ─► usearch ─► ASV table + SINTAX taxonomy ─┐
+                                                      ├─► analyses/01 ─► Fig. 6, S7, S8
+metadata.txt ─────────────────────────────────────────┘
+
+metagenomic reads ─► metaWRAP + dRep ─► MAGs
+                                        ├─► GTDB-Tk ─────► taxonomy, tree ───────────┐
+                                        ├─► Prodigal ─► diamond ─► MAG × gene tables ─┼─► analyses/02 ─► Fig. 1, 2, 3c, 5, S2-S6
+                                        └─► ARGs-OAP ─► normalized abundance tables ──┘
+
+MAG × gene tables ─► analyses/03 ─► Fig. 3d, 4, S4
 ```
 
 The three R scripts are sequential notebooks: each one starts from the input
