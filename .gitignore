@@ -1,0 +1,21 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# analysis output
+results/
+
+# figures and office files produced by the scripts
+*.pdf
+*.png
+*.svg
+*.tif
+*.tiff
+
+# OS / editor
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

@@ -1,0 +1,16 @@
+sample	pollutants	category	days	rongyu	categorycol	rongyucol
+Cd11	cd	heavy_metal	30	y	cyan3	#fbf398
+Cd21	cd	heavy_metal	60	n	cyan3	#fbf398
+CG11	no	no	30	y	#8f888b	#8f888b
+CG21	no	no	60	n	#8f888b	#8f888b
+Cr11	cr	heavy_metal	30	y	cyan3	#fbf398
+Cr21	cr	heavy_metal	60	n	cyan3	#fbf398
+Cu11	cu	heavy_metal	30	y	cyan3	#fbf398
+Cu21	cu	heavy_metal	60	n	cyan3	#fbf398
+oh11	PhOH	organic	30	y	indianred1	orchid
+oh21	PhOH	organic	60	n	indianred1	orchid
+PAP11	PAP	organic	30	y	indianred1	orchid
+PAP21	PAP	organic	60	n	indianred1	orchid
+PNP11	PNP	organic	30	y	indianred1	orchid
+PNP21	PNP	organic	60	n	indianred1	orchid
+Seed	no	no	0	n	#8f888b	#8f888b
