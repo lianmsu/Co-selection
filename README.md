@@ -1,4 +1,4 @@
-# Co-selection
+# Co-selection_driven_ARG_shifts
 
 Code accompanying **"Understanding pollutant-driven shifts of antibiotic resistome in
 activated sludge: A lab-scale study"** — Li P., Yin Z., Ye L.
